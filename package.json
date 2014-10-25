@@ -1,0 +1,8 @@
+{
+  "name": "hc-council",
+  "dependencies": {
+    "LiveScript": "^1.3.1",
+    "cheerio": "^0.17.0",
+    "request": "^2.46.0"
+  }
+}
